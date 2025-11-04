@@ -6,7 +6,7 @@ This project showcases a complete data science pipeline: data collection (scrapi
 
 ## **Live Application**
 
-[Streamlit App](steam-market-insights-data-advisor.streamlit.app)[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](steam-market-insights-data-advisor.streamlit.app)
+[Streamlit App](https://steam-market-insights-data-advisor.streamlit.app/)[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://steam-market-insights-data-advisor.streamlit.app/)
 
 ## **Project Workflow**
 
